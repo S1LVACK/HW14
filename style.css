@@ -1,0 +1,243 @@
+* {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+body {
+  background-color: #0b1d26;
+}
+.main-contener {
+  width: 100%;
+  background: url("./images/fon.png"),
+    lightgray -145.48px 0px / 190.789% 100% no-repeat;
+  background-repeat: no-repeat;
+  background-color: #0b1d26;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+.main-contener .fonn {
+  width: 100%;
+}
+.main-contener1 {
+  width: 100%;
+}
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 120px;
+}
+#logo1 {
+  color: var(--Wei, #fff);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.32px;
+  line-height: normal;
+  text-decoration: none;
+}
+#logo {
+  color: var(--Wei, #fff);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.32px;
+  line-height: normal;
+  text-decoration: none;
+}
+header .menut {
+  color: #fff;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  text-decoration: none;
+  padding-left: 40px;
+}
+header .imga {
+  position: relative;
+  top: 3px;
+  right: 5px;
+}
+.main-cont1 {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 82px;
+  padding-right: 82px;
+  height: 900px;
+  padding-top: 100px;
+}
+.textprot {
+  writing-mode: vertical-lr;
+  color: #fff;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.item2 {
+  color: #fff;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.item3 {
+  text-align: end;
+  color: #fff;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.item3 p {
+  text-align: end;
+  color: #fff;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.item2h2 {
+  color: var(--Accent, #fbd784);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 800;
+  letter-spacing: 6px;
+  line-height: normal;
+  text-transform: uppercase;
+}
+.item2h1 {
+  padding-top: 32px;
+  padding-bottom: 32px;
+  color: var(--Wei, #fff);
+  font-family: Chronicle Display;
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 100px;
+  text-transform: capitalize;
+}
+.hat {
+  padding-bottom: 5px;
+}
+.main-cont2 {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 100px;
+}
+.main-contener1 .h01 {
+  color: #fff;
+  font-size: 240px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 240px;
+  opacity: 0.1;
+  position: relative;
+  top: 250px;
+  padding-left: 50px;
+}
+.con1 .get {
+  color: var(--Accent, #fbd784);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+}
+.what {
+  color: #fff;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  width: 555px;
+  padding-top: 27px;
+  padding-bottom: 27px;
+}
+.det {
+  width: 632px;
+  color: #fff;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px;
+  padding-bottom: 27px;
+}
+.read {
+  color: var(--Accent, #fbd784);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.conn1 {
+  order: 2;
+}
+.conn2 {
+  order: 1;
+}
+.h02 {
+  color: #fff;
+  font-size: 240px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 240px;
+  opacity: 0.1;
+  position: relative;
+  top: 250px;
+  text-align: end;
+  right: 580px;
+}
+footer {
+  padding-left: 120px;
+  padding-right: 70px;
+  display: flex;
+}
+.footerp {
+  width: 303px;
+  color: #fff;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px;
+  padding-bottom: 122px;
+}
+.footerpp {
+  color: #fff;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px;
+  opacity: 0.5;
+  padding-bottom: 50px;
+}
+.div2 {
+  padding-left: 493px;
+}
+.divh1 {
+  color: var(--Accent, #fbd784);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px;
+  padding-bottom: 24px;
+}
+.div3 {
+  padding-left: 75px;
+}
+.div2 .diva,
+.div3 .diva {
+  color: #fff;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px;
+  padding-bottom: 19px;
+  text-decoration: none;
+}
